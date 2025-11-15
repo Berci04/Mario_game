@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="projekt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/game_engine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mario_10-27.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
