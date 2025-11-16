@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"game.engine"},{"l":"game.engine.ui"},{"l":"game.engine.utils"},{"l":"game.mario"},{"l":"game.mario.players"},{"l":"game.mario.ui"},{"l":"game.mario.utils"}];updateSearchResults();

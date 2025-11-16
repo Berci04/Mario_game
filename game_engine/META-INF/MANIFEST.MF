@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Ant-Version: Apache Ant 1.10.15
-Created-By: 24.0.2-internal-adhoc.conda.src (Oracle Corporation)
-Main-Class: game.engine.Engine
-Built-By: ihegedus
-Built-Date: 2025-10-27
-Class-Path: .
-
